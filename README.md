@@ -40,7 +40,7 @@ The **Pizza Sales Project** is a data analysis and visualization initiative desi
    *Figure 1: Pizza Sales Dashboard Overview*
 
    ![Pizza Sales Dashboard 2](PizzaSalesDashboard2.jpeg)
-   *Figure 2: Detailed Sales Analysis*
+   *Figure 2: Pizza Sales Dashboard Overview*
 
 5. **Insights and Recommendations**  
    Based on the data analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making **informed decisions** to:
