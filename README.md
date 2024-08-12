@@ -49,5 +49,5 @@ The **Pizza Sales Project** is a data analysis and visualization initiative desi
    - **Enhance overall business performance**
 
 ### **Dependencies**
-- **SQL database** or data source
-- **Power BI Desktop**
+- SQL database or data source
+- Power BI Desktop
